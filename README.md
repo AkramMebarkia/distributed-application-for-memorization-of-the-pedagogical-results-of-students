@@ -1,0 +1,1 @@
+# distributed-application-for-memorization-of-the-pedagogical-results-of-students
